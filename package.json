@@ -1,0 +1,14 @@
+{
+    "name": "example-finitediff",
+    "version": "0.1.0",
+    "repo": "hcnn/example-finitediff",
+    "description": "Demo ",
+    "keywords": ["finite differences", "demo", "example"],
+    "license": "MIT",
+    "dependencies": {
+        "hcnn/finitediff_forward": "0.1.0",
+        "hcnn/finitediff_backward": "0.1.0",
+        "hcnn/finitediff_central": "0.1.0"
+    },
+    "install": "make install"
+}
